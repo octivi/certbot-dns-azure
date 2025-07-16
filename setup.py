@@ -7,7 +7,7 @@ version = '2.6.1'
 # when they refactor, most notably the credential parts
 install_requires = [
     'azure-identity>=1.19.0',
-    'azure-mgmt-dns>=8.2.0',
+    'azure-mgmt-dns=8.2.0',
     'azure-core>=1.32.0',
     'setuptools>=41.6.0',
     'certbot>=3.0,<4.0',
