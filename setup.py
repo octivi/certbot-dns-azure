@@ -10,7 +10,7 @@ install_requires = [
     'azure-mgmt-dns>=8.2.0',
     'azure-core>=1.32.0',
     'setuptools>=41.6.0',
-    'certbot>=3.0,<5.2',
+    'certbot>=3.0',
 ]
 
 with open("README.md") as f:
